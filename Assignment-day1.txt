@@ -1,0 +1,25 @@
+Q.1 What is your understanding of blockchain?
+	Block chain is the group of blocks connected in an chian and each block having the unique hash code of its own as well as the of the previous block.
+	If we tried to change the data in 1st block the hash will be changed and it won’t be the same as the next block. It provides security to the data.It takes 10 mins
+	to change the or update the data due to which it is easy to trace the attack.
+	It tried to provide peer to peer transaction technology. 
+Q.2 What is the main problem blockchain tried to solve?
+ 	The main problem which the blockchain tried to solve is to enhance the security and authenticity.
+	Instead of trusting on an oraganisation such as bank, start trusting the system. 
+
+Q.3 Features of blockchain
+	1.Verifiable
+	2.Unchangeable
+	3.Tamper – proof
+	4.Immutable
+
+Q.4 What all things a block contains?
+	1.Block number
+	2.Transaction records
+	3.Previous block signature
+	4.Mining key (Nonce)
+
+Q.5 How the verifiability of the blockchain has been attained?
+	Each and every person involved in the group will check the hash provided. 
+	If the hash of all the participants is the same, then the data is similar to one another. 
+	But if the hash of one of the participants is different, then we can cross-check what was the difference of the data which was leading to a different hash
